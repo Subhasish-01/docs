@@ -1,0 +1,8 @@
+python-docx
+Faker
+spacy
+presidio-analyzer
+presidio-anonymizer
+pandas
+openpyxl
+Pillow
